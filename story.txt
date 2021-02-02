@@ -1,4 +1,4 @@
-I changed!
+I changed! First !
 Exercise 3: Practising working with commits 10%
 
 Create a folder on the command line and turn it into a Git project.
