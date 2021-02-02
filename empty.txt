@@ -1,6 +1,1 @@
-empty file
-<<<<<<< Updated upstream
-empty again
-=======
-empty test
->>>>>>> Stashed changes
+
