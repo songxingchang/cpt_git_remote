@@ -8,3 +8,6 @@ After doing all the changes described above, create a total of three commits: on
 Using the command git log, check that you have properly created three commits.
 Add something new to the shopping list, and create another commit. Use the command git add -p.
 Make sure you can see all the commits in the output of git log.
+
+
+wdnmd worenshale
