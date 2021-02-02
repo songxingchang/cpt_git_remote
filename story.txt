@@ -1,0 +1,10 @@
+Exercise 3: Practising working with commits 10%
+
+Create a folder on the command line and turn it into a Git project.
+Create a file called story.txt in your project. Add a lot of text inside.
+Add another file called shopping_list.txt to the project, and write down what you need from the store (or just many rows of text).
+Create a subfolder called school into the project, and create a file calledlapio.txt inside. You will need these files in the future exercises.
+After doing all the changes described above, create a total of three commits: one, where you add the story, a second on where you add the shopping list, and a third one where you add the school folder. Make sure that each commit message is truly descriptive.
+Using the command git log, check that you have properly created three commits.
+Add something new to the shopping list, and create another commit. Use the command git add -p.
+Make sure you can see all the commits in the output of git log.

@@ -1,0 +1,6 @@
+beer
+water
+juice
+egg
+lighter
+
